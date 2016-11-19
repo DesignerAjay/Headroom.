@@ -1,0 +1,11 @@
+  .custom-header-bg.smaller {
+		transform: translatey(-100%);
+		-moz-transform: translatey(-100%);
+		-webkit-transform: translatey(-100%);
+	}
+
+	.custom-header-bg.smaller.default {
+		transform: translatey(0);
+		-moz-transform: translatey(0);
+		-webkit-transform: translatey(0);
+	}
